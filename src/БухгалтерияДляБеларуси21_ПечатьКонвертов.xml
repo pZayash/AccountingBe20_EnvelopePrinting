@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<ExternalDataProcessor uuid="5eb3264a-44b5-48ae-b904-adc6471a2602">
+	<ExternalDataProcessor uuid="7bb1f364-2325-4d63-aa17-aa15cc687cf9">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
-				<xr:ObjectId>b75499fd-b4f9-4437-8928-e35b1845cae6</xr:ObjectId>
+				<xr:ObjectId>48997df4-580e-42f1-adc2-cbe9023a04e2</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.ПечатьКонвертов_БухгалтерияДляБеларуси_21" category="Object">
-				<xr:TypeId>1598fdda-226d-45f7-abc7-79b88840f955</xr:TypeId>
-				<xr:ValueId>8d7ed513-b201-4acf-bd3e-61ee42a4c489</xr:ValueId>
+			<xr:GeneratedType name="ExternalDataProcessorObject.БухгалтерияДляБеларуси21_ПечатьКонвертов" category="Object">
+				<xr:TypeId>8d25a45c-da52-4b19-959c-8943ee4ad614</xr:TypeId>
+				<xr:ValueId>6264545c-a1db-46a4-a418-8a4baf9e5ad4</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ПечатьКонвертов_БухгалтерияДляБеларуси_21</Name>
+			<Name>БухгалтерияДляБеларуси21_ПечатьКонвертов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Печать конвертов для "Бухгалтерия для Беларуси, редакция 2.1"</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>20240105</Comment>
-			<DefaultForm>ExternalDataProcessor.ПечатьКонвертов_БухгалтерияДляБеларуси_21.Form.Форма</DefaultForm>
+			<Comment>20240520.00</Comment>
+			<DefaultForm>ExternalDataProcessor.БухгалтерияДляБеларуси21_ПечатьКонвертов.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
